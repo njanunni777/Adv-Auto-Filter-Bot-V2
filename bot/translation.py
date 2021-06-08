@@ -4,8 +4,8 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
+    START_TEXT = """<b>വെറുതെ സമയം കളയണ്ടേ😏 എന്നെ @pdxmoviemp4 ഗ്രൂപ്പിൽ മാത്രമേ യൂസ് ചെയ്യാൻ പറ്റു {}!!</b>
+<i>ഈ ബോട്ട് @pdxmoviesmp4 എന്നാ ഗ്രൂപ്പിന് ഉള്ളതാണെ....😉
 
 Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
 
@@ -14,7 +14,7 @@ For More Details Click Help Button Below..
 </i>"""    
     
     HELP_TEXT = """
-<b><i><u>How To Use Me!?</u></i></b>
+<b><i><u>ഒന്ന് പോടാ അവൻ ഹെല്പ് ചോയിച്ചു വന്നേക്കുന്നു😏!?</u></i></b>
 
 <i>
 -> Add Me To Any Group And Make Me Admin
