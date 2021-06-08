@@ -38,7 +38,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '👨‍💼Developers👨‍💼', url="https://t.me/G9037944937/26"
+                                    'ജോയിൻ ഗ്രൂപ്പ്‌🙂', url="https://t.me/pdxmoviesmp4"
                                 )
                         ]
                     ]
@@ -57,7 +57,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '👨‍💼Developers👨‍💼', url="https://t.me/G9037944937/26"
+                                    'DEVELOPER🤓', url="https://t.me/G9037944937/26"
                                 )
                         ]
                     ]
