@@ -82,7 +82,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2/tree/blob/main
+git clhttps://github.com/njanunni777/Adv-Auto-Filter-Bot-V2.git/main
 cd Adv-Auto-Filter-Bot-ReMaster
 pip3 install -r requirements.txt
 # Change The Vars Of bot/__init__.py File Accordingly
@@ -92,7 +92,7 @@ python3 -m bot
 </details>
 
 ## Support   
-Join Our [Telegram Group](https://t.me/pdxmoviesmp4) For Support/Assistance And Our [Channel](https://t.me/pdxmoviesmp4) For Updates.   
+Join Our [Telegram Group](https://t.me/https://t.me/cinemuseum) For Support/Assistance And Our [Channel](https://t.me/cinetheatre) For Updates.   
    
 Report Bugs, Give Feature Requests There..   
 Do Fork And Star The Repository If You Liked It.
