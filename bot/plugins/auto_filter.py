@@ -147,13 +147,13 @@ async def auto_filter(bot, update):
         if len_result != 1:
             result[0].append(
                 [
-                    InlineKeyboardButton("Next 🌝", callback_data=f"navigate(0|next|{query})")
+                    InlineKeyboardButton("Next", callback_data=f"navigate(0|next|{query})")
                 ]
             )
         
         # Just A Decaration
         result[0].append([
-            InlineKeyboardButton(f"🤓 Page 1/{len_result if len_result < max_pages else max_pages} 🔰", callback_data="ignore")
+            InlineKeyboardButton(f" Page 1/{len_result if len_result < max_pages else max_pages} 🔰", callback_data="ignore")
         ])
         
         
@@ -182,13 +182,13 @@ async def auto_filter(bot, update):
                 if ((len(ibuttons)%2) == 0):
                     ibuttons.append(
                         [
-                            InlineKeyboardButton(f"⚜ {JOIN OUR GROUP🙂} ⚜", url=https://t.me/cinemuseum)
+                            InlineKeyboardButton(f"⚜ {GROUP} ⚜", url=https://t.me/cinemuseum)
                         ]
                     )
 
                 else:
                     ibuttons[-1].append(
-                        InlineKeyboardButton(f"⚜ {JOIN OUR CHANNEL🙂} ⚜", url=https://t.me/cinetheatre)
+                        InlineKeyboardButton(f"⚜ {CHANNEL} ⚜", url=https://t.me/cinetheatre)
                     )
                 
             for x in ibuttons:
